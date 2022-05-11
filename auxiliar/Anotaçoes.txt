@@ -1,0 +1,11 @@
+
+Componente _ é uma função que retorna HTML
+- sempre precisa iniciar com uma letra maiuscula
+
+
+Propiedade _ é tipo o atributo do html, para definir cada componente com uma coisa
+
+
+
+
+headlessui _ biblioteca de acessibidade,e varias funcionalidades de esc, abrir e fechar, etc

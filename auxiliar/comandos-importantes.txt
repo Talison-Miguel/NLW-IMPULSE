@@ -1,0 +1,3 @@
+CRIAR O PROJETO EM REACT _ npm create vite@latest
+
+RODAR I PROJETO _ npm run dev
