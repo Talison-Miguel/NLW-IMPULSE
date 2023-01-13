@@ -11,18 +11,18 @@
   
   <img alt="HTML" src="https://img.shields.io/badge/React-00BFFF">
   <img alt="HTML" src="https://img.shields.io/badge/TailwindCSS-blue">
+  <img alt="HTML" src="https://img.shields.io/badge/Testes-blue">
+  <img alt="HTML" src="https://img.shields.io/badge/Prisma-blue">
   <img alt="HTML" src="https://img.shields.io/badge/Json-green">
   <img alt="HTML" src="https://img.shields.io/badge/NodeJS-green">
-  <img alt="HTML" src="https://img.shields.io/badge/Testes-blue">
-  <img alt="HTML" src="https://img.shields.io/badge/Jest">
-  <img alt="HTML" src="https://img.shields.io/badge/Prisma-blue">
+  <img alt="HTML" src="https://img.shields.io/badge/Jest-red">
+ 
   
   
   <br>
   
   <img src="https://img.shields.io/badge/code%20quality-A-green"/>
   
-  <img alt="Last commit" src="https://img.shields.io/badge/last%20commit-december-green">
 
   <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
     <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-talison-red">
