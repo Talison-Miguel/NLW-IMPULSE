@@ -9,13 +9,13 @@
 
   <br>
   
-  <img alt="HTML" src="https://img.shields.io/badge/React-87CEFA">
-  <img alt="HTML" src="https://img.shields.io/badge/Tailwind-CSS-blue">
-  <img alt="HTML" src="https://img.shields.io/badge/TS-.json-green">
-  <img alt="HTML" src="https://img.shields.io/badge/Node-JS-green">
-  <img alt="HTML" src="https://img.shields.io/badge/Testes-react-blue">
-  <img alt="HTML" src="https://img.shields.io/badge/jest-blue">
-  <img alt="HTML" src="https://img.shields.io/badge/schema-prisma-blue">
+  <img alt="HTML" src="https://img.shields.io/badge/React-00BFFF">
+  <img alt="HTML" src="https://img.shields.io/badge/TailwindCSS-blue">
+  <img alt="HTML" src="https://img.shields.io/badge/Json-green">
+  <img alt="HTML" src="https://img.shields.io/badge/NodeJS-green">
+  <img alt="HTML" src="https://img.shields.io/badge/Testes-blue">
+  <img alt="HTML" src="https://img.shields.io/badge/Jest">
+  <img alt="HTML" src="https://img.shields.io/badge/Prisma-blue">
   
   
   <br>
