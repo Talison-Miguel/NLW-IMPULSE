@@ -9,30 +9,31 @@
 
   <br>
   
-  <img alt="HTML" src="https://img.shields.io/badge/React-00BFFF">
-  <img alt="HTML" src="https://img.shields.io/badge/TailwindCSS-blue">
-  <img alt="HTML" src="https://img.shields.io/badge/Testes-blue">
-  <img alt="HTML" src="https://img.shields.io/badge/Prisma-blue">
-  <img alt="HTML" src="https://img.shields.io/badge/Json-green">
-  <img alt="HTML" src="https://img.shields.io/badge/NodeJS-green">
-  <img alt="HTML" src="https://img.shields.io/badge/Jest-red">
+  <img alt="React" src="https://img.shields.io/badge/React-blue">
+  <img alt="React Native" src="https://img.shields.io/badge/React Native-blue">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-blue">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-blue">
+  <img alt="Testes" src="https://img.shields.io/badge/Testes Reacts-blue">
+  <img alt="Json" src="https://img.shields.io/badge/Json-green">
+  <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-green">
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-red">
  
   
   
   <br>
   
-  <img src="https://img.shields.io/badge/code%20quality-A-green"/>
+  <img src="https://img.shields.io/badge/Code%20quality-A-green"/>
   
 
   <a href="https://www.linkedin.com/in/t%C3%A1lison-miguel/">
-    <img alt="Made by Tálison" src="https://img.shields.io/badge/made%20by-talison-red">
+    <img alt="Made by Tálison" src="https://img.shields.io/badge/Made%20by-talison-red">
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="certificado.jpg" />
+  <img alt="Imagem da Aplicação" src="imgApplication.jpg" />
 </p>
 
 ---
@@ -46,20 +47,21 @@
 
 ## :rocket: Sobre o Repositório
 
-Este é um repositório contendo todo conteúdo que fiz do curso, desde funcionalidades do sass até projetos. 
+Este é um repositório contendo o projeto que fiz no NLW Return, é um widget de feedback, com toda uma aplicação por tras de front-end e back-end.
 
 ---
 
 ## 👨‍💻️ Tecnogias utilizadas
 
-✅ [ SASS ](https://sass-lang.com/install) <br/>
+✅ [ REACT ](https://pt-br.reactjs.org/) <br/>
+✅ [ REACT-NATIVE ](https://reactnative.dev/) <br/>
+✅ [ TAILWIND ](https://tailwindcss.com/) <br/>
+✅ [ PRISMA ](https://www.prisma.io/) <br/>
+✅ [ NODE-JS ](https://nodejs.org/en/) <br/>
+✅ [ PRISMA ](https://www.prisma.io/) <br/>
+✅ [ JEST ](https://www.npmjs.com/package/jest) <br/>
 ✅ [ CSS ](https://developer.mozilla.org/pt-BR/docs/Web/CSS) <br/>
 ✅ [ HTML ](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <br/>
-
-### Padronização de código
-
-  - [Arquitetura de Projetos com SASS do Matheus Battisti]
-  -  : mouse : [ Editor Config ](https://editorconfig.org/)
 
 ###  IDE
 
@@ -72,7 +74,7 @@ Este é um repositório contendo todo conteúdo que fiz do curso, desde funciona
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Curso-De-Sass.git
+  ❯ git clone https://github.com/Talison-Miguel/NLW-IMPULSE.git
 ```
 
 ---
