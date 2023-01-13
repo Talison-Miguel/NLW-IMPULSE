@@ -13,7 +13,6 @@
   <img alt="React Native" src="https://img.shields.io/badge/React Native-blue">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-blue">
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-blue">
-  <img alt="Testes" src="https://img.shields.io/badge/Testes Reacts-blue">
   <img alt="Json" src="https://img.shields.io/badge/Json-green">
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-green">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-red">
