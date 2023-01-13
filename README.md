@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img alt="Imagem da Aplicação" src="imgApplication.jpg" />
+  <img alt="Imagem da Aplicação" src="auxiliar/imgApplication.jpg" />
 </p>
 
 ---
